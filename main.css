@@ -1,0 +1,22 @@
+*{
+    box-sizing:border-box;
+}
+div{
+    background-color: rgba(117, 108, 143, 0.295);
+}
+
+h1{
+    font-size: 40px;
+    
+}
+#page > header{
+    text-align: center;
+}
+
+main{
+    border: 2px solid black;
+    margin: 24px;
+    padding: 24px;
+    display: flex;
+    flex-wrap: wrap;
+}
